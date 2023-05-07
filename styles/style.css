@@ -9,7 +9,30 @@
   padding: 8px;
 }
 
+/* Botón de la barra de búsqueda*/
 .custom-button {
   background-color: #FCA311;
   color: #000000;
+}  
+.custom-button:hover {
+  background-color: #E5E5E5;
+  color: #000000;
+}
+.custom-button:focus {
+  background-color: #E5E5E5;
+  color: #000000;
+}
+
+/* Botón de enviar del formulario */
+.custom-button2 {
+  background-color: #FCA311;
+  color: #000000;
+}
+.custom-button2:hover {
+  background-color: #14213D;
+  color: #FFFFFF;
+}
+.custom-button2:focus {
+  background-color: #14213D;
+  color: #FFFFFF;
 }
