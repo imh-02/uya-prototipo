@@ -1,0 +1,6 @@
+1. Problema con el pie de página --> no navega por contactos ni por la tabla
+
+3. modificar cita previa --> nuevos servicios
+
+* Probar todas las webs con el screen reader.
+
