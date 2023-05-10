@@ -9,6 +9,17 @@
   padding: 8px;
 }
 
+.custom-link {
+  color: #FCA311;
+  font-weight: bold; 
+  font-size: 1em;
+  text-decoration: underline;
+}
+
+.custom-link:hover {
+  color: #E5E5E5;
+}
+
 /* Botón de la barra de búsqueda*/
 .custom-button {
   background-color: #FCA311;
