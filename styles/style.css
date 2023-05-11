@@ -47,3 +47,9 @@
   background-color: #14213D;
   color: #FFFFFF;
 }
+
+/* flechas del carousel --> foco del teclado */
+.carousel-control-prev:focus,
+.carousel-control-next:focus {
+  outline: solid 2px #FCA311; /* Puedes ajustar el color y el grosor del contorno según tus preferencias */
+}

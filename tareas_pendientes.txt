@@ -1,6 +1,42 @@
-1. Problema con el pie de página --> no navega por contactos ni por la tabla //hecho
+1. Navgeación con tabulador por el footer
+    falta leer el apartado de contacto.
+    falta leer novedasdes y ofertas
 
-3. modificar cita previa --> nuevos servicios   //hecho
+2. navegación cabecera
+    quizás la descripcion del lector con el cuador de la barra de busqueda puede mejorar
+    la imagen de la esquina superior izq y quizas brezos barber, deberían anunicar que van a la página principal?
+    
+** Error común para todas las páginas, no lee los encabezados --> debería leerlos?
 
-* Probar todas las webs con el screen reader. //falta
+3. contacto
+    Los elementos internos del formulario se leen, ¿deberían leerse?
+
+4 ubicaciones
+    la lectura de los elementos del mapa parece correcta
+    No lee las direcciones que están justo encima, ¿deberían leerse?
+
+5. Cita previa
+    menu para seleciconar peluqería no se despliegue con enter
+    calendario se lee en innglés, problema con el idioma
+    el calendario tampoco deja moverse o cambiar de fecha
+    desplegable seleccionar hora no se desplega con enter
+    desplegfable seleccionar servicio no se despliega con enter
+
+6. accesibilidad    
+    no lee el contenido
+
+7. mapa web
+    aparentemente todo correcto
+
+8. tarifas --> no lee el contenido
+
+9. inicio
+    botones y slides del carrousel los lee en inglés, ¿depende de nosotros o del lector?
+    creo que depende de nosotros por que el resto de cosas las lee bien en español.
+    imagenes del carrousel deberían tener una alternativa textual?
+
+    En cuanto a las tarjetas, no lee la cabecera de las mismas, pasa directamente a más información.
+    Las tarjetas se abren correctamente, salta de tarjeta en tarjeta también adecuadamente, pero no 
+    lee el contenido de dentro de la tarjeta, salta a la siguiente.1.5em
+    
 
