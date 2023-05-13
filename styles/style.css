@@ -31,6 +31,22 @@
   color: #E5E5E5;
 }
 
+
+.nav-link-custom2 {
+  color: #ffffff; 
+  font-size: 1.25em;
+  padding: 0.5em;
+}
+
+
+.nav-link-custom2:hover {
+  color: #FCA311;
+}
+
+.nav-link-custom2:focus {
+  color: #FCA311;
+}
+
 /* Botón de la barra de búsqueda*/
 .custom-button {
   background-color: #FCA311;
