@@ -39,4 +39,4 @@
     Las tarjetas se abren correctamente, salta de tarjeta en tarjeta también adecuadamente, pero no 
     lee el contenido de dentro de la tarjeta, salta a la siguiente.1.5em
     
-
+***********************************************************************************************************
